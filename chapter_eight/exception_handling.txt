@@ -1,0 +1,3 @@
+Exception Handling is the code you write to mitigate unanticipated errors throwing the program into disarray.
+
+Using begin, rescue, end to outline a contingency plan for the code can save it if a nil value gets into the logic.
